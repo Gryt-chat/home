@@ -1,13 +1,36 @@
-# Table of Content
-## Client
-[🕹️ Client Repository](https://github.com/Gryta-Krutt/client)
+<h2>Client</h2>
+<div>
+<a href='https://github.com/Gryt-chat/client'>
+<img src='./links/clientRepo.png'/>
+</a>
 
-[📖🕹️ Client Documentation](https://sivertgh.gitbook.io/gryt/)
+<a href='https://docs.gryt.chat/docs/category/client'>
+<img src='./links/clientDocs.png'/>
+</a>
+</div>
 
-## Server
-[💻 Server Repository](https://github.com/Gryta-Krutt/server)
+----------------
 
-[📖💻 Server Documentation](https://sivertgh.gitbook.io/gryt/v/server/)
+<h2>Server</h2>
+<div>
+<a href='https://github.com/Gryt-chat/server'>
+<img src='./links/serverRepo.png'/>
+</a>
 
-## Branding
-[🌍 Landing Page](https://github.com/Gryta-Krutt/landing-page)
+<a href='https://docs.gryt.chat/docs/category/server'>
+<img src='./links/serverDocs.png'/>
+</a>
+</div>
+
+----------------
+
+<h2>Homepage</h2>
+<div>
+<a href='https://gryt.chat'>
+<img src='./links/home.png'/>
+</a>
+
+<a href='https://github.com/Gryt-chat/landing-page'>
+<img src='./links/homeRepo.png'/>
+</a>
+</div>
